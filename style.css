@@ -29,6 +29,7 @@ body{
   position: absolute;
   top: -15px;
   left: 40%;
+  border-radius: 4px;
 }
 .clock{
   background: #EBEBEB;
